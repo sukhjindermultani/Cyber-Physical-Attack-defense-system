@@ -34,3 +34,8 @@ In the end, for measuring the learning cost, we run each trial until it goes to 
 ![image](https://user-images.githubusercontent.com/20415408/43532802-33780dd2-9568-11e8-8202-664aa096149f.png)
 
 
+#Actor Critic Algorithm for defense task in power system
+Actor Critic Algorithm models are one of the form of policy gradient model, which itself is one of the Vanilla Algorithm.
+##
+
+
