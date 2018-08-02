@@ -33,5 +33,10 @@ In order to measure the data efficiency of our system, we define a different num
 In the end, for measuring the learning cost, we run each trial until it goes to state 0 (safe state) and measures the total reward. We observe that after around 40 trials, our system converges.\
 ![image](https://user-images.githubusercontent.com/20415408/43532802-33780dd2-9568-11e8-8202-664aa096149f.png)
 
+# Actor Critic Method for Defense Tasks in a Smart Power System
+Actor-Critic models are a popular form of Policy Gradient model, which is itself a vanilla RL algorithm.
+
+
+
 
 
